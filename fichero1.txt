@@ -1,3 +1,4 @@
 Estamos aprendiendo a user git
 Estamos intentando confirmar cambios
 Hola que tal
+Estamos estudiando un poco git
